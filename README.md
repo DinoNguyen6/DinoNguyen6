@@ -7,7 +7,7 @@
 - 💻 I'm Hữu Bằng.
 - 👀 I’m interested in Web Developer.
 - 🌱 I’m currently learning everything.
-- 📫 Cách liên hệ với tôi **huubang16042002@gmail.com**
+- 📫 How to reach me **huubang16042002@gmail.com**
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/975554228066078751) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguyenhuubanggg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b%e1%ba%b1ng-nguy%e1%bb%85n-h%e1%bb%afu-36635524a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/18028361/b%e1%ba%b1ng-nguy%e1%bb%85n-h%e1%bb%afu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@huubangnguyen7217) 
