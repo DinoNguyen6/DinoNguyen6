@@ -22,5 +22,4 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=bangnguyen1vs9&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=bangnguyen1vs9&icon=0&color=1)](https://visitcount.itsvg.in)
+
