@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hữu Bằng</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=1200&height=190&lines=%22When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor%22)](https://git.io/typing-svg)
+
+<p align="center" dir="auto">
+     <a href="https://twitter.com/elonmusk" rel="nofollow">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=1200&height=190&lines=%22When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor%22" alt="Typing SVG" data-canonical-src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=00FFFF&amp;width=1000&amp;lines=Legends+Live+Forever+But+Rebels+Never+Die](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&width=1200&height=190&lines=%22When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor%22)" style="max-width: 100%;"></a>
+ </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="">
 
