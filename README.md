@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hữu Bằng</h1>
+<h1 align="center">Hi 👋, I'm Bang Nguyen</h1>
 
 
 <p align="center" dir="auto">
@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="">
 
 # 💫About Me :
-- 💻 I'm Hữu Bằng.
+- 💻 I'm Bang Nguyen.
 - 👀 I’m interested in Web Developer.
 - 🌱 I’m currently learning everything.
 - 📫 How to reach me **huubang16042002@gmail.com**
