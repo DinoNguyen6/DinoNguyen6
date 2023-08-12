@@ -115,4 +115,8 @@
         <img src="https://github-profile-trophy.vercel.app/?username=bangnguyen1vs9&theme=juicyfresh" alt="bangnguyen1vs9" />
     </a> 
 </p>
-
+<p align="center" dir="auto">
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true">
+          <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;">
+     </a>
+</p>
