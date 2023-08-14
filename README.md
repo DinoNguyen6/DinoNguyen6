@@ -12,6 +12,8 @@
 - 👀 I’m interested in Web Developer.
 - 🌱 I’m currently learning everything.
 - 📫 How to reach me **huubang16042002@gmail.com**
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/975554228066078751)](https://discord.com/users/975554228066078751)
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=bangnguyen1vs9&label=Profile%20views&color=0e75b6&style=flat" alt="bangnguyen1vs9" /> 
