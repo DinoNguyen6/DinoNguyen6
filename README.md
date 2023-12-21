@@ -16,7 +16,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/975554228066078751?borderRadius=5px&idleMessage=XXX&bg=a&animated=true)](https://discord.com/users/975554228066078751)
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=bangnguyen1vs9&label=Profile%20views&color=0e75b6&style=flat" alt="bangnguyen1vs9" /> 
+    <img src="https://komarev.com/ghpvc/?username=DinoNguyen6&label=Profile%20views&color=0e75b6&style=flat" alt="DinoNguyen6" /> 
 </p>
 
 ## 🌐Socials
