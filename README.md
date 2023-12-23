@@ -238,7 +238,7 @@
 ## 🏆 Github Profile Trophy
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bangnguyen1vs9&theme=juicyfresh" alt="bangnguyen1vs9" />
+        <img src="https://github-profile-trophy.vercel.app/?username=DinoNguyen6&theme=juicyfresh" alt="bangnguyen1vs9" />
     </a> 
 </p>
 <p align="center" dir="auto">
