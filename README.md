@@ -220,17 +220,17 @@
 ## 🔥My Github Streak
 <p align="center">
     <a href="https://github.com/bangnguyen1vs9/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="bangnguyen1vs9" src="https://streak-stats.demolab.com?user=bangnguyen1vs9&theme=tokyonight&hide_border=SAI&border_radius=9&type=png">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DinoNguyen6" src="https://streak-stats.demolab.com?user=DinoNguyen6&theme=tokyonight&hide_border=SAI&border_radius=9&type=png">
     </a>
 </p>
 
 ## 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/bangnguyen1vs9/github-readme-stats">
-        <img title="" alt="bangnguyen1vs9" src="https://github-readme-stats.vercel.app/api?username=bangnguyen1vs9&show_icons=true&theme=tokyonight" height="175px" width="49%">
+    <a href="https://github.com/DinoNguyen6/github-readme-stats">
+        <img title="" alt="DinoNguyen6" src="https://github-readme-stats.vercel.app/api?username=DinoNguyen6&show_icons=true&theme=tokyonight" height="175px" width="49%">
     </a>
-    <a href="https://github.com/bangnguyen1vs9/github-readme-stats">
-        <img title="" alt="bangnguyen1vs9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangnguyen1vs9&layout=compact&langs_count=10&show_icons=true&theme=tokyonight" height="175px" width="41%">
+    <a href="https://github.com/DinoNguyen6/github-readme-stats">
+        <img title="" alt="DinoNguyen6" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNguyen6&layout=compact&langs_count=10&show_icons=true&theme=tokyonight" height="175px" width="41%">
     </a>
 </p>
 
